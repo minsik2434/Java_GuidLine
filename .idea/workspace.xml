@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="재사용">
-      <change afterPath="$PROJECT_DIR$/src/free_memory/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_with_resources/MyResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_with_resources/TryFinallyClose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_with_resources/TryWithResourceClose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="try-with-resource">
+      <change afterPath="$PROJECT_DIR$/src/free_memory/StackFreeMemory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752559183310</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="try-with-resource">
+      <option name="closed" value="true" />
+      <created>1752562653213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752562653213</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -123,6 +127,7 @@
     <MESSAGE value="utilityclass" />
     <MESSAGE value="Dependency Injection" />
     <MESSAGE value="재사용" />
-    <option name="LAST_COMMIT_MESSAGE" value="재사용" />
+    <MESSAGE value="try-with-resource" />
+    <option name="LAST_COMMIT_MESSAGE" value="try-with-resource" />
   </component>
 </project>
