@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="정적 팩토리 메서드">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/MemberBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/MemberCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/MemberJavaBeans.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/builder/PremiumMember.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="싱글톤 패턴">
+      <change afterPath="$PROJECT_DIR$/src/utility_class/UtilityClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -75,11 +70,29 @@
       <option name="project" value="LOCAL" />
       <updated>1752494657750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="빌더 패턴">
+      <option name="closed" value="true" />
+      <created>1752509152105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752509152105</updated>
+    </task>
+    <task id="LOCAL-00003" summary="싱글톤 패턴">
+      <option name="closed" value="true" />
+      <created>1752510564509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752510564509</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="정적 팩토리 메서드" />
-    <option name="LAST_COMMIT_MESSAGE" value="정적 팩토리 메서드" />
+    <MESSAGE value="빌더 패턴" />
+    <MESSAGE value="싱글톤 패턴" />
+    <option name="LAST_COMMIT_MESSAGE" value="싱글톤 패턴" />
   </component>
 </project>
