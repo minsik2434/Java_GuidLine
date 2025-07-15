@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="utilityclass">
-      <change afterPath="$PROJECT_DIR$/src/dependency_injection/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dependency_injection/DatabaseConnectionDI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dependency_injection/DatabaseSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dependency_injection/LocalDatabaseSource.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="Dependency Injection">
+      <change afterPath="$PROJECT_DIR$/src/reuse/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reuse/ValidatorReuse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752555241734</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dependency Injection">
+      <option name="closed" value="true" />
+      <created>1752556287551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752556287551</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,6 +111,7 @@
     <MESSAGE value="빌더 패턴" />
     <MESSAGE value="싱글톤 패턴" />
     <MESSAGE value="utilityclass" />
-    <option name="LAST_COMMIT_MESSAGE" value="utilityclass" />
+    <MESSAGE value="Dependency Injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection" />
   </component>
 </project>
