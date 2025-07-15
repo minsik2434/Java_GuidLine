@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="Dependency Injection">
-      <change afterPath="$PROJECT_DIR$/src/reuse/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reuse/ValidatorReuse.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="재사용">
+      <change afterPath="$PROJECT_DIR$/src/free_memory/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/try_with_resources/MyResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/try_with_resources/TryFinallyClose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/try_with_resources/TryWithResourceClose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752556287551</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="재사용">
+      <option name="closed" value="true" />
+      <created>1752559183310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752559183310</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -112,6 +122,7 @@
     <MESSAGE value="싱글톤 패턴" />
     <MESSAGE value="utilityclass" />
     <MESSAGE value="Dependency Injection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependency Injection" />
+    <MESSAGE value="재사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="재사용" />
   </component>
 </project>
