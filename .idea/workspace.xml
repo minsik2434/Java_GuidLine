@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="패키지 변경">
-      <change afterPath="$PROJECT_DIR$/src/obejct_common_method/equals/CaseInsensitiveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obejct_common_method/equals/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obejct_common_method/equals/ColorPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obejct_common_method/equals/CounterPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/obejct_common_method/equals/Point.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="접근 권한 최소화">
+      <change afterPath="$PROJECT_DIR$/src/class_interface/accessor_method/Member.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752562775330</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="equals">
+      <option name="closed" value="true" />
+      <created>1752635867953</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752635867953</updated>
+    </task>
+    <task id="LOCAL-00011" summary="접근 권한 최소화">
+      <option name="closed" value="true" />
+      <created>1752828391590</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752828391590</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +184,8 @@
     <MESSAGE value="try-with-resource" />
     <MESSAGE value="free memory" />
     <MESSAGE value="패키지 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지 변경" />
+    <MESSAGE value="equals" />
+    <MESSAGE value="접근 권한 최소화" />
+    <option name="LAST_COMMIT_MESSAGE" value="접근 권한 최소화" />
   </component>
 </project>
