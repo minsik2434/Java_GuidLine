@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="composition">
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/Singer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/SingerSongwriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/SongWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/inheritance/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/inheritance/Super.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="abstract vs interface">
+      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/AbstractDataProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/DataProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/UpperCaseDataProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -207,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752898739189</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="abstract vs interface">
+      <option name="closed" value="true" />
+      <created>1752903279140</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1752903279140</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +230,7 @@
     <MESSAGE value="접근 권한 최소화" />
     <MESSAGE value="접근 제어 메소드" />
     <MESSAGE value="composition" />
-    <option name="LAST_COMMIT_MESSAGE" value="composition" />
+    <MESSAGE value="abstract vs interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract vs interface" />
   </component>
 </project>
