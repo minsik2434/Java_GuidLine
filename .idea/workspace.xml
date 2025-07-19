@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="배열보단 리스트">
-      <change afterPath="$PROJECT_DIR$/src/generic/make_generic_type/Stack.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="제네릭 클래스">
+      <change afterPath="$PROJECT_DIR$/src/generic/make_generic_method/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,10 +54,11 @@
     "애플리케이션.Client.executor": "Run",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Sub.executor": "Run",
-    "애플리케이션.class_interface.interface_default_method.Client.executor": "Run"
+    "애플리케이션.class_interface.interface_default_method.Client.executor": "Run",
+    "애플리케이션.generic.make_generic_method.Main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Main">
+  <component name="RunManager" selected="애플리케이션.generic.make_generic_method.Main">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="obejct_common_method.equals.Client" />
       <module name="effective" />
@@ -110,8 +111,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="generic.make_generic_method.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.make_generic_method.Main" />
+      <module name="effective" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generic.make_generic_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.generic.make_generic_method.Main" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.class_interface.interface_default_method.Client" />
         <item itemvalue="애플리케이션.Sub" />
@@ -288,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752922411426</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="제네릭 클래스">
+      <option name="closed" value="true" />
+      <created>1752924255597</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1752924255597</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -311,6 +334,7 @@
     <MESSAGE value="tag class" />
     <MESSAGE value="topClass" />
     <MESSAGE value="배열보단 리스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="배열보단 리스트" />
+    <MESSAGE value="제네릭 클래스" />
+    <option name="LAST_COMMIT_MESSAGE" value="제네릭 클래스" />
   </component>
 </project>
