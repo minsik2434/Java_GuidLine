@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="abstract vs interface">
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/AbstractDataProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/DataProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/abstract_vs_interface/UpperCaseDataProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_interface/interface_default_method/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_interface/interface_default_method/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_interface/interface_default_method/SimpleAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +54,11 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "애플리케이션.Client.executor": "Run",
-    "애플리케이션.Sub.executor": "Run"
+    "애플리케이션.Sub.executor": "Run",
+    "애플리케이션.class_interface.interface_default_method.Client.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Sub">
+  <component name="RunManager" selected="애플리케이션.class_interface.interface_default_method.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="obejct_common_method.equals.Client" />
       <module name="effective" />
@@ -85,8 +85,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="class_interface.interface_default_method.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_interface.interface_default_method.Client" />
+      <module name="effective" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class_interface.interface_default_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.class_interface.interface_default_method.Client" />
         <item itemvalue="애플리케이션.Sub" />
         <item itemvalue="애플리케이션.Client" />
       </list>
@@ -213,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752903279140</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="abstract vs interface">
+      <option name="closed" value="true" />
+      <created>1752906333563</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1752906333563</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
