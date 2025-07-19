@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="abstract vs interface">
-      <change afterPath="$PROJECT_DIR$/src/class_interface/interface_default_method/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/interface_default_method/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class_interface/interface_default_method/SimpleAccount.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="default method">
+      <change afterPath="$PROJECT_DIR$/src/class_interface/constant_interface/PhysicalConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_interface/constant_interface/PhysicalConstantsUtilityClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,18 +45,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "애플리케이션.Client.executor": "Run",
-    "애플리케이션.Sub.executor": "Run",
-    "애플리케이션.class_interface.interface_default_method.Client.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Client.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Sub.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.class_interface.interface_default_method.Client.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="애플리케이션.class_interface.interface_default_method.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="obejct_common_method.equals.Client" />
@@ -235,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752906333563</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="default method">
+      <option name="closed" value="true" />
+      <created>1752910123203</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1752910123203</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,6 +260,7 @@
     <MESSAGE value="접근 제어 메소드" />
     <MESSAGE value="composition" />
     <MESSAGE value="abstract vs interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract vs interface" />
+    <MESSAGE value="default method" />
+    <option name="LAST_COMMIT_MESSAGE" value="default method" />
   </component>
 </project>
