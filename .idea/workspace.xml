@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="EnumSet">
-      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset_instead_of_ordinal/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset_instead_of_ordinal/PlantEnumMap.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="EnumMap">
+      <change afterPath="$PROJECT_DIR$/src/enum_annotation/used_interface/BasicOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enum_annotation/used_interface/ExtendedOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enum_annotation/used_interface/Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
-        <option value="Class" />
       </list>
     </option>
   </component>
@@ -344,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752987405562</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="EnumMap">
+      <option name="closed" value="true" />
+      <created>1752989011190</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1752989011190</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -372,6 +381,7 @@
     <MESSAGE value="열거타입" />
     <MESSAGE value="ordinal" />
     <MESSAGE value="EnumSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="EnumSet" />
+    <MESSAGE value="EnumMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="EnumMap" />
   </component>
 </project>
