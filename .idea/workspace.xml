@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="ordinal">
-      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset/TextEnumSet.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="EnumSet">
+      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset_instead_of_ordinal/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset_instead_of_ordinal/PlantEnumMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -335,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752986388237</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="EnumSet">
+      <option name="closed" value="true" />
+      <created>1752987405562</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1752987405562</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -362,6 +371,7 @@
     <MESSAGE value="제네릭 메서드" />
     <MESSAGE value="열거타입" />
     <MESSAGE value="ordinal" />
-    <option name="LAST_COMMIT_MESSAGE" value="ordinal" />
+    <MESSAGE value="EnumSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="EnumSet" />
   </component>
 </project>
