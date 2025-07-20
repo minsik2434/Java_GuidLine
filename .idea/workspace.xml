@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="열거타입">
-      <change afterPath="$PROJECT_DIR$/src/enum_annotation/instance_field_instead_of_ordinal/Ensemble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum_annotation/instance_field_instead_of_ordinal/EnsembleInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="ordinal">
+      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enum_annotation/enumset/TextEnumSet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -328,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752930935983</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ordinal">
+      <option name="closed" value="true" />
+      <created>1752986388237</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1752986388237</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -354,6 +361,7 @@
     <MESSAGE value="제네릭 클래스" />
     <MESSAGE value="제네릭 메서드" />
     <MESSAGE value="열거타입" />
-    <option name="LAST_COMMIT_MESSAGE" value="열거타입" />
+    <MESSAGE value="ordinal" />
+    <option name="LAST_COMMIT_MESSAGE" value="ordinal" />
   </component>
 </project>
