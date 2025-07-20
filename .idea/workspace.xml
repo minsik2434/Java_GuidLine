@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="override">
-      <change afterPath="$PROJECT_DIR$/src/lambda_stream/lambda_instead_of_anonymous_class/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda_stream/lambda_instead_of_anonymous_class/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda_stream/lambda_instead_of_anonymous_class/OperationLambda.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="익명클래스보다 람다 사용">
+      <change afterPath="$PROJECT_DIR$/src/lambda_stream/stream_pipeline/Anagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -384,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1752992717199</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="익명클래스보다 람다 사용">
+      <option name="closed" value="true" />
+      <created>1753001328655</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1753001328655</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="utilityclass" />
     <MESSAGE value="Dependency Injection" />
     <MESSAGE value="재사용" />
     <MESSAGE value="try-with-resource" />
@@ -413,6 +418,7 @@
     <MESSAGE value="열거타입 확장엔 인터페이스 사용" />
     <MESSAGE value="애노테이션" />
     <MESSAGE value="override" />
-    <option name="LAST_COMMIT_MESSAGE" value="override" />
+    <MESSAGE value="익명클래스보다 람다 사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="익명클래스보다 람다 사용" />
   </component>
 </project>
