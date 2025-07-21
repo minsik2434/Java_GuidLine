@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="스트림 파이프라인">
-      <change afterPath="$PROJECT_DIR$/src/method/defensive_copy/Period.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/parameter_check/Test.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="방어적 복사본">
+      <change afterPath="$PROJECT_DIR$/src/method/overloading/CollectionClassifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,27 +45,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Bigram.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Client.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Sub.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.class_interface.interface_default_method.Client.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.generic.make_generic_method.Main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "애플리케이션.Bigram.executor": "Run",
+    "애플리케이션.Client.executor": "Run",
+    "애플리케이션.CollectionClassifier.executor": "Run",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Sub.executor": "Run",
+    "애플리케이션.class_interface.interface_default_method.Client.executor": "Run",
+    "애플리케이션.generic.make_generic_method.Main.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lambda_stream.lambda_instead_of_anonymous_class" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Bigram">
+  <component name="RunManager" selected="애플리케이션.CollectionClassifier">
     <configuration name="Bigram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enum_annotation.override.Bigram" />
       <module name="effective" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_interface.top_level_class.Main" />
+    <configuration name="CollectionClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.overloading.CollectionClassifier" />
       <module name="effective" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_interface.top_level_class.*" />
+          <option name="PATTERN" value="method.overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_interface.inheritance.Sub" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_interface.top_level_class.Main" />
       <module name="effective" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_interface.inheritance.*" />
+          <option name="PATTERN" value="class_interface.top_level_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CollectionClassifier" />
         <item itemvalue="애플리케이션.Bigram" />
         <item itemvalue="애플리케이션.generic.make_generic_method.Main" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.class_interface.interface_default_method.Client" />
-        <item itemvalue="애플리케이션.Sub" />
       </list>
     </recent_temporary>
   </component>
@@ -399,11 +399,18 @@
       <option name="project" value="LOCAL" />
       <updated>1753003170991</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="방어적 복사본">
+      <option name="closed" value="true" />
+      <created>1753078118277</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1753078118277</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="재사용" />
     <MESSAGE value="try-with-resource" />
     <MESSAGE value="free memory" />
     <MESSAGE value="패키지 변경" />
@@ -428,6 +435,7 @@
     <MESSAGE value="override" />
     <MESSAGE value="익명클래스보다 람다 사용" />
     <MESSAGE value="스트림 파이프라인" />
-    <option name="LAST_COMMIT_MESSAGE" value="스트림 파이프라인" />
+    <MESSAGE value="방어적 복사본" />
+    <option name="LAST_COMMIT_MESSAGE" value="방어적 복사본" />
   </component>
 </project>
