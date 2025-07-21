@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="방어적 복사본">
-      <change afterPath="$PROJECT_DIR$/src/method/overloading/CollectionClassifier.java" afterDir="false" />
+    <list default="true" id="52aed55b-0d4c-4e46-843d-0446933998c4" name="변경" comment="오버로딩">
+      <change afterPath="$PROJECT_DIR$/src/method/var_args/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -407,11 +407,18 @@
       <option name="project" value="LOCAL" />
       <updated>1753078118277</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="오버로딩">
+      <option name="closed" value="true" />
+      <created>1753079084574</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1753079084574</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="try-with-resource" />
     <MESSAGE value="free memory" />
     <MESSAGE value="패키지 변경" />
     <MESSAGE value="equals" />
@@ -436,6 +443,7 @@
     <MESSAGE value="익명클래스보다 람다 사용" />
     <MESSAGE value="스트림 파이프라인" />
     <MESSAGE value="방어적 복사본" />
-    <option name="LAST_COMMIT_MESSAGE" value="방어적 복사본" />
+    <MESSAGE value="오버로딩" />
+    <option name="LAST_COMMIT_MESSAGE" value="오버로딩" />
   </component>
 </project>
